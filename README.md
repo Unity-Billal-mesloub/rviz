@@ -1,19 +1,13 @@
 ![rviz logo](https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png)
 
-[![Format](https://github.com/ros-visualization/rviz/actions/workflows/format.yaml/badge.svg?branch=noetic-devel)](https://github.com/ros-visualization/rviz/actions/workflows/format.yaml?query=branch%3Anoetic-devel)
-[![CI](https://github.com/ros-visualization/rviz/actions/workflows/ci.yaml/badge.svg?branch=noetic-devel)](https://github.com/ros-visualization/rviz/actions/workflows/ci.yaml?query=branch%3Anoetic-devel)
+[![Format](https://github.com/Unity-Billal-mesloub/rviz/actions/workflows/format.yaml/badge.svg?branch=noetic-devel)](https://github.com/Unity-Billal-mesloub/rviz/actions/workflows/format.yaml?query=branch%3Anoetic-devel)
+[![CI](https://github.com/Unity-Billal-mesloub/rviz/actions/workflows/ci.yaml/badge.svg?branch=noetic-devel)](https://github.com/Unity-Billal-mesloub/rviz/actions/workflows/ci.yaml?query=branch%3Anoetic-devel)
 [![ROS CI](https://build.ros.org/buildStatus/icon?job=Ndev__rviz__ubuntu_focal_amd64)](https://build.ros.org/view/Ndev/job/Ndev__rviz__ubuntu_focal_amd64/)
 
 rviz is a 3D visualizer for the Robot Operating System (ROS) framework.
 
 For more information, please see the wiki: http://wiki.ros.org/rviz
 
-Maintainers:
-- Robert Haschke (2019-)
-- William Woodall (2013-2018)
-- David Gossow (2013)
-- Dave Hershberger (2011-2013)
-- Josh Faust (2010)
 
 This package contains Public Domain icons downloaded from http://tango.freedesktop.org/releases/.
 
